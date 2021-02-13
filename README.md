@@ -1,2 +1,2 @@
 Chat-app made using MERN 
-with socket.io real time engine :)
+with socket.io as a real time engine :)
